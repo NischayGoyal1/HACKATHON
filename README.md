@@ -97,18 +97,13 @@ Accuracy 85%
 ## DONUT CHART OF ACCURACY TABLE ->
 ![accuracyy1.png](https://www.dropbox.com/s/8yu15ixi1b4qol2/accuracyy1.png?dl=0&raw=1)
 
-## Conclusion 
 
-The model was successfully able to determine whether the plant whose image is provided has the disease or not and if yes,which disease the plant is suffering from.
-
-Knowing if the plant is suffering with a disease we can conclude which pesticide should be selected for its further prevention.
 
 ## Challenges we ran into
 1. Faced Diffilculty in finding a appropriate Data-set with large number of images
-2. As a newbie to Machine learning domain it is very difficult to work with huge number of funtions and libraries.3)As we have used VGG 19 architure so most of the common inbuilt functions are not working , we have encounterd with number of errors , So finding new functions and there respective libraries is quite a troublesome.
-3. As we have used VGG 19 architure so most of the common inbuilt functions are not working , we have encounterd with number of errors , So finding new functions and there respective libraries is quite a troublesome.
-4. Faced Pixel Related issue for showing false result for Feed images
-5. Had Trouble in deployment of our model on website , and linking backend with  the frontend.
+2. As a newbie to Machine learning domain it is very difficult to work with huge number of functions and libraries.3)As we have used VGG 19 architure so most of the common inbuilt functions are not working , we have encounterd with number of errors , So finding new functions and there respective libraries is quite a troublesome.
+3. Faced Pixel Related issue for showing false result for Feed images
+4. Had Trouble in deployment of our model on website , and linking backend with  the frontend.
 
 ## Contributors
 [Nischay](https://github.com/NischayGoyal1)
